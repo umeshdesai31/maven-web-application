@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <url>http://65.0.87.227:9036/nexus/repository/Netflix-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.88.42:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://65.0.87.227:9036/nexus/repository/Netflix-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
