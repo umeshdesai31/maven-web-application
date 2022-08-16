@@ -99,15 +99,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.87.227:9036/nexus/repository/Netflix-Release/</url>
+	      <id>umeshdesai</id>
+	      <name>Releases Systane Repository</name>
+	      <url>http://43.205.118.207:9036/umeshdesai/repository/systane-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.87.227:9036/nexus/repository/Netflix-Snapshot/</url>
+	      <id>umeshdesai</id>
+	      <name>Releases Systane Snapshot Repository</name>
+	      <url>http://43.205.118.207:9036/umeshdesai/repository/systane-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
