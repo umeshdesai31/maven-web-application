@@ -100,14 +100,14 @@
 	
 	    <repository>
 	      <id>umeshdesai</id>
-	      <name>Releases Systane Repository</name>
-	      <url>http://43.205.118.207:9036/umeshdesai/repository/systane-release/</url>
+	      <name>Releases Axcelis Repository</name>
+	      <url>http://13.234.117.183:9036/umeshdesai/repository/Axcelis-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>umeshdesai</id>
-	      <name>Releases Systane Snapshot Repository</name>
-	      <url>http://43.205.118.207:9036/umeshdesai/repository/systane-snapshot/</url>
+	      <name>Releases Axcelis Snapshot Repository</name>
+	      <url>http://13.234.117.183:9036/umeshdesai/repository/Axcelis-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
