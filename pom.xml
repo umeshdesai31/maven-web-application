@@ -100,14 +100,14 @@
 	
 	    <repository>
 	      <id>umeshdesai</id>
-	      <name>Releases Axcelis Repository</name>
-	      <url>http://13.234.117.183:9036/umeshdesai/repository/Axcelis-Release/</url>
+	      <name>Releases Amazon Repository</name>
+	      <url>http://3.110.86.158:9036/umeshdesai/repository/Amazon-Relase/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>umeshdesai</id>
-	      <name>Releases Axcelis Snapshot Repository</name>
-	      <url>http://13.234.117.183:9036/umeshdesai/repository/Axcelis-Snapshot/</url>
+	      <name>Releases Amazon Snapshot Repository</name>
+	      <url>http://3.110.86.158:9036/umeshdesai/repository/Amazon-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
