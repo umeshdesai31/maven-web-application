@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>umeshdesai</id>
 	      <name>Releases Amazon Repository</name>
-	      <url>http://3.110.86.158:9036/umeshdesai/repository/Amazon-Relase/</url>
+	      <url>http://13.232.183.219:9036/umeshdesai/repository/Amazon-Relase/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>umeshdesai</id>
 	      <name>Releases Amazon Snapshot Repository</name>
-	      <url>http://3.110.86.158:9036/umeshdesai/repository/Amazon-Snapshot/</url>
+	      <url>http://13.232.183.219:9036/umeshdesai/repository/Amazon-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
